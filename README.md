@@ -1,4 +1,4 @@
-# TensorFlowRepot
+# TensorFlow report
 > 현재의 TensorFlow 최신 버전은 >> 2.12.0 << 입니다.
 
 최근들어 평소에 쓰던 TensorFlow GPU의 사용이 안되는 문제가 있습니다.
